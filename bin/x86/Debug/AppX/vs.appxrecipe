@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-JBIJLNS4</Machine>
+    <WindowsUser>Jip</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>f9ae12ba-31ed-4f5a-8d85-6960d21f96aa</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Jip</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>DB0322A429DA79C9EE3A8F542B0BBF64F9F5D6D505DBC13D3C94A20C29178A5B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f9ae12ba-31ed-4f5a-8d85-6960d21f96aa_1.0.0.0_x86__4w7t9v74fdpwa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f9ae12ba-31ed-4f5a-8d85-6960d21f96aa_4w7t9v74fdpwa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f9ae12ba-31ed-4f5a-8d85-6960d21f96aa</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jip</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-02T14:42:18.024</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\bin\x86\Debug\BugsOfHorrorXAML.exe">
+      <PackagePath>entrypoint\BugsOfHorrorXAML.exe</PackagePath>
+      <Modified>2022-02-02T14:42:17.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2021-02-05T08:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2020-12-02T11:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\Images\Bug.ico">
+      <PackagePath>Assets\Images\Bug.ico</PackagePath>
+      <Modified>2022-02-02T13:38:26.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\Images\Keyboard.ico">
+      <PackagePath>Assets\Images\Keyboard.ico</PackagePath>
+      <Modified>2022-02-02T13:38:26.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\Images\Bug.png">
+      <PackagePath>Assets\Images\Bug.png</PackagePath>
+      <Modified>2022-02-02T13:38:26.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\Images\Hero01.png">
+      <PackagePath>Assets\Images\Hero01.png</PackagePath>
+      <Modified>2022-02-02T13:38:26.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\Images\Hero02.png">
+      <PackagePath>Assets\Images\Hero02.png</PackagePath>
+      <Modified>2022-02-02T13:38:26.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\Images\Hero03.png">
+      <PackagePath>Assets\Images\Hero03.png</PackagePath>
+      <Modified>2022-02-02T13:38:26.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\Images\Hero04.png">
+      <PackagePath>Assets\Images\Hero04.png</PackagePath>
+      <Modified>2022-02-02T13:38:26.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\Images\Hero05.png">
+      <PackagePath>Assets\Images\Hero05.png</PackagePath>
+      <Modified>2022-02-02T13:38:26.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\Images\Keyboard.png">
+      <PackagePath>Assets\Images\Keyboard.png</PackagePath>
+      <Modified>2022-02-02T13:38:26.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\SensorData\AttractieStatus.xml">
+      <PackagePath>Assets\SensorData\AttractieStatus.xml</PackagePath>
+      <Modified>2022-02-02T13:38:45.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Assets\SensorData\WachtrijSensoren.xml">
+      <PackagePath>Assets\SensorData\WachtrijSensoren.xml</PackagePath>
+      <Modified>2022-02-02T13:38:45.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2022-02-02T13:10:14.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\bin\x86\Debug\BugsOfHorrorXAML.xr.xml">
+      <PackagePath>BugsOfHorrorXAML.xr.xml</PackagePath>
+      <Modified>2022-02-02T14:42:17.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2022-02-02T14:42:17.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2022-02-02T14:42:17.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2020-12-02T09:52:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-02-02T13:49:33.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Fontys\Old\workspace\bugsofhorrorxaml\BugsOfHorrorXAML\bin\x86\Debug\Core\BugsOfHorrorXAML.exe">
+      <PackagePath>BugsOfHorrorXAML.exe</PackagePath>
+      <Modified>2022-02-02T14:42:18.020</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
